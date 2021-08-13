@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**leodemachado/leodemachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the development of AI tools for diagnosing and assessing osteoporosis risk. 
 - 🌱 I’m currently learning tons of Artificial Inteligence, Data Science, and Data Analysis techniques.
 - 👯 I’m looking to collaborate on applied Artificial Inteligence projects.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/leonardo-machado-55427712a/
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Psycology is anoher passion of mine.
--->
